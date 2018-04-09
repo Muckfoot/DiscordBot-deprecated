@@ -7,3 +7,4 @@ which were not provided by Discord itself:
 * Temporary bans
 * Monitor user voice level and ban the user if certain treshold is reached (prevent raging while gaming)
 * Log user messages and store them in the database
+* Pull posts from Reddit
